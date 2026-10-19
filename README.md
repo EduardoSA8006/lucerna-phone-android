@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/logo.svg" alt="Lucerna" height="120"></p>
+
 # lucerna-phone-android
 
 App Android do lucerna-phone: o lado do celular do protocolo próprio.
